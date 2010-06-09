@@ -1,6 +1,6 @@
 = state_maze
 
-Description goes here.
+A simple state machine
 
 == Note on Patches/Pull Requests
  
